@@ -3,11 +3,11 @@ entries:
   mosquitto-go-auth:
   - apiVersion: v2
     appVersion: 1.6.0
-    created: "2021-10-14T14:56:42.246551148Z"
+    created: "2021-10-15T15:24:39.583572343Z"
     description: Eclipse Mosquitto is an open source message broker which implements
       MQTT version 5, 3.1.1 and 3.1. Build includes mosquitto-go-auth plugin for more
       fine grained control on authentication to mosquitto
-    digest: 3d88027c0ac480227f4796c7d2d4cdfcfdef90e38cce1d32e367223aabea12cd
+    digest: 5e0d713e587cf8adbb7e513910b08218f08e57c72311eb0d016e6269e0e71182
     maintainers:
     - email: opensource@digicatapult.org.uk
       name: digicatapult
@@ -16,4 +16,4 @@ entries:
     urls:
     - https://digicatapult.github.io/mosquitto-go-auth-helm/mosquitto-go-auth-0.0.2.tgz
     version: 0.0.2
-generated: "2021-10-14T14:56:42.245126357Z"
+generated: "2021-10-15T15:24:39.582558432Z"
