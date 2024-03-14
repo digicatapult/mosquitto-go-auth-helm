@@ -1,5 +1,9 @@
 # mosquitto-go-auth helm chart
 
+## Deprecation Notice
+This application was deprecated on March 14th 2024, there will be no further dependency or security updates.
+---
+
 This repository contains a helm chart for deploying a Mosquitto MQTT broker along with the `mosquitto-go-auth` plugin. See the Chart [README](./charts/mosquitto-go-auth/README.md) for further details on how to configure the chart deployment.
 
 ## Repository
